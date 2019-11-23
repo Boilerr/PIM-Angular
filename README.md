@@ -6,9 +6,10 @@ Angular part of PIM project
 
 ## Restoring Development setup
   1. Install Git and Angular    
-  2. ```$ git clone ...``` // clone this project to local machine
-  3. ```$ npm install```  // load all needed files 
-  4. ```$ ng serve``` // test project, http://localhost:4200
+  2. ```$ git clone https://github.com/Boilerr/PIM-Angular.git``` // clone this project to local machine
+  3. ```$ cd...``` to cloned project
+  4. ```$ npm install```  // load all needed files 
+  5. ```$ ng serve``` // test project, http://localhost:4200
  
 
 ## Contributing 
